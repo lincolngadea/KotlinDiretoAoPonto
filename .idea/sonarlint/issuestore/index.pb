@@ -15,3 +15,5 @@ L
 build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
 C
 settings.gradle.kts,7\4\749edfcc96398253e5b3416184e95c46621da850
+P
+ src/main/kotlin/Arrays/ranges.kt,d\2\d205a590b87d9ef291728570b181c678e7ef1ae6
